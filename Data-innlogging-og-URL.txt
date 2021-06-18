@@ -1,0 +1,4 @@
+brukernavn:v19bau1
+passord:Database
+
+url:https://itfag.usn.no/phpmyadmin/index.php
